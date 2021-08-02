@@ -2,7 +2,22 @@
 
 This repository is contains all custom scripts that were used for image analysis using CellProfiler in the study, 
 
-"SARS-CoV-2 Neurotropism and Single Cell Responses in Brain Organoids Containing Innately Developing Microglia". 
+**SARS-CoV-2 Neurotropism and Single Cell Responses in Brain Organoids Containing Innately Developing Microglia 
+
+Samudyata1#, Ana Osório Oliveira1#, Susmita Malwade1, Nuno Rufino de Sousa2, Sravan K Goparaju1, Funda Orhan1, Laura Steponaviciute2, Steven S Sheridan3, Roy H Perlis3, Antonio Rothfuchs2, Carl M. Sellgren1,4* 
+
+1Department of Physiology and Pharmacology, Karolinska Institute, Stockholm, Sweden 
+
+2Department of Microbiology, Tumor and Cell Biology, Karolinska Institute, Stockholm, Sweden 
+
+3Center for Genomic Medicine and Department of Psychiatry, Massachusetts General Hospital, Boston, MA, USA. 
+
+4Centre for Psychiatry Research, Department of Clinical Neuroscience, Karolinska Institutet & Stockholm Health Care Services, Stockholm County Council, Karolinska University Hospital, Stockholm, Sweden.* 
+
+
+
+Corresponding Author:  carl.sellgren@ki.se
+
 
 ## Abstract
 
